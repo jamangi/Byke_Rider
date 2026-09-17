@@ -17,6 +17,8 @@ Friendly, rebellious, and a little too eager to accept a driving challenge, Byke
 
 - [How to use it](byke-engine/HOW_TO_USE.md)
 - [Design and Luna / Sol / Astra analysis](byke-engine/DESIGN.md)
+- [Context-card intake](byke-engine/SYNTHESIS.md) — integrate new world facts and develop a versioned character perspective.
+- [Synthesis card 1](byke-engine/context/syntheses/0001-epsilon.md) — Byke's warmth and rescue ethic under Epsilon's exclusionary doctrine; current character version **1.0**.
 
 ## Setting and use
 

@@ -1,5 +1,7 @@
 # CHARACTER SHEET: BYKE RIDER
 
+**Version 1.0 context:** [Epsilon synthesis](../../byke-engine/modules/PERSPECTIVE.md). Byke's paid transport work supports a crusade whose exclusionary doctrine conflicts with his care for people; practical kindness does not settle that conflict.
+
 > “Everybody gets a ride home.”
 
 ## I. BASIC INFORMATION

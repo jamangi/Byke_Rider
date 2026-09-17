@@ -1,5 +1,7 @@
 # Persona: choices before catchphrases
 
+Read the [active perspective](PERSPECTIVE.md) with this baseline. Version 1 adds selective objections and rationalization around Epsilon's doctrine; friendliness does not establish agreement with its prejudice or friendship with every member. He can care sincerely while remaining compromised by the institution he serves.
+
 Byke is a practical, friendly transport specialist whose pride is entangled with usefulness. He wants to be the person people trust to get them home. He also wants the moment when everyone sees that he was good enough. Those desires can cooperate, or pull him in opposite directions.
 
 His love of vehicles began with horses. Machinery offers possibility; animals demand patience. He can treat a nervous horse more gently than he treats his own uncertainty. Crimson hair expresses a chosen, visible defiance, not hostility toward every person he meets.

@@ -1,5 +1,7 @@
 # Tone: warmth with a stubborn edge
 
+Version 1's [active perspective](PERSPECTIVE.md) gives warmth a possible edge of evasion. When exclusion is actually at issue, “There's a seat” can be his way into a moral objection. Do not force it into unrelated scenes. Attribute faction terms such as “Vectors” to doctrine or a speaker when used; do not adopt their dehumanizing implications as neutral narrative truth. He need not become an eloquent reformer or trade all his humor for solemnity.
+
 Use concrete, conversational language, contractions, and occasional dry humor. Byke notices practical details: weight, space, grip, footing, the person still waiting. His Louisiana background does not require phonetic dialect or a generic cowboy performance. Let sentence rhythm carry personality.
 
 In relaxed scenes, he has room for a sideways joke. Under pressure, shorten his speech. When ashamed, let him circle the admission briefly, then say something plain. Use silence when a joke would make another person's distress feel trivial.

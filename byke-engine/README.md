@@ -4,12 +4,15 @@ A document-based guide for an AI writing Byke Rider. Give the pilot a scene and 
 
 Start with [HOW_TO_USE.md](HOW_TO_USE.md). Read [DESIGN.md](DESIGN.md) for architecture, tradeoffs, and the Luna / Sol / Astra comparison.
 
+**Active character version: [1.0](VERSION.md), shaped by context card 1.** For worldbuilding intake rather than an RP post, use [SYNTHESIS.md](SYNTHESIS.md). It accepts lists of facts, distinguishes errors from interpretive pressures, produces a response card, and applies versioned additions when requested.
+
 ## Runtime reading order
 
 The pilot reads these on every fresh task, followed by the operator's scene. Links are a reading manifest, not proof their contents have been loaded.
 
 1. [PILOT.md](PILOT.md) — operating procedure and final checks.
 2. [Full character sheet](../characters/byke_rider/character_sheet.md) — established character canon.
+   Then read [VERSION.md](VERSION.md) and every active card, synthesis, and perspective it lists. These are required cumulative context, not optional examples.
 3. [CONTEXT.md](modules/CONTEXT.md) — facts, knowledge, uncertainty, and continuity.
 4. [PERSONA.md](modules/PERSONA.md) — what drives his choices.
 5. [TONE.md](modules/TONE.md) — what his words sound like.

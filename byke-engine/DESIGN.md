@@ -2,6 +2,22 @@
 
 Version: initial document engine, 2026-09-17.
 
+Context-card extension: character version [1.0](VERSION.md), 2026-09-17. The original model analysis below remains an untested design hypothesis.
+
+## Context-card synthesis extension
+
+The engine now has a second entry point, [SYNTHESIS.md](SYNTHESIS.md). It processes world facts separately from RP generation: preserve input → classify tensions/errors → propose a minimal compatible perspective → illustrate → adopt when authorized → propagate and version. Preview leaves active state unchanged; apply permits explicit connective characterization while preserving source facts.
+
+The important distinction is between a logical contradiction and pressure on an interpretation. Friendly behavior can coexist with serving a prejudiced institution. The resulting account may involve selective loyalty, compartmentalization, dependence, and compromised kindness. It must not turn the institution harmless, declare the character innocent by fiat, or fabricate past acts to justify him. True same-time factual conflicts get an error record and, where necessary, operator correction.
+
+World facts, authored character additions, character knowledge, and accepted events remain distinct records. A newly supplied institutional fact can change how writers understand old behavior without making it a new discovery for Byke. Prior explicit thoughts and knowledge limits cannot be rewritten. Examples illustrate the synthesis without becoming events.
+
+An active manifest references cumulative source cards, response cards, and a concise perspective. Shared character files link that perspective; affected persona/tone/task modules include its practical consequences. This avoids repeatedly rewriting biography while ensuring a pilot reading the normal manifest receives the update. Campaign-specific applications use isolated records rather than overwriting the shared baseline.
+
+The causal card ID is the major character version: card 1 creates 1.0, a later pressure card N creates N.0. Additive updates increment the minor version; previews and unresolved errors do not activate versions. Input IDs are immutable and reprocessing is idempotent. Git retains exact snapshots, starting from version 0 at `395dfd5`. See SYNTHESIS.md for correction and scope rules.
+
+The Epsilon response is a completed authored application, not evidence of model reliability. Evaluation cases now include error classification, versioning, perspective propagation, and resistance to convenient moral exoneration.
+
 ## Intended result
 
 Given an operator's scene, produce a plausible Byke response in two vivid, factually compatible narrative renditions. First person should let the reader experience his thinking style. Third person should offer a deliberately different selection of visible detail or, when requested, a close account of his interior life. The pair needs a shared concrete moment, not identical coverage.

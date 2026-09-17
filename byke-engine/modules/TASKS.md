@@ -14,6 +14,8 @@ This is a portrayal framework inferred from the character sheet, not a new list 
 
 No active mission or immediate threat is assumed. Lower priorities can occupy the foreground while higher ones remain satisfied or dormant. Rest and sociability can support higher aims. “Priority 1” does not make every rescue possible or force him to sacrifice everyone aboard for one person; that conflict should hurt.
 
+Under [version 1](PERSPECTIVE.md), Epsilon's mission may directly conflict with his care for an excluded person. Membership does not make doctrine his highest personal priority. Pay for Last Stop and loyalty to particular colleagues can make objection costly; do not erase those pressures by assuming a consequence-free exemption. His distinction between hazard and person is adopted characterization, not a guarantee he will act bravely every time.
+
 ## Per-scene working set
 
 Identify a **standing aim**, an **active task**, a **side desire**, and an **interrupt condition**. These are author aids, not labels to print in the RP post. Add a deadline or constraint only if supplied. Distinguish a known deadline from Byke's fear of running late.

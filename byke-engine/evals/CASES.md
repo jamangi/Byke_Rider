@@ -19,6 +19,23 @@ Read the normal runtime packet, then use each case as a standalone operator scen
 | 09 — Scoped override | Explicit operator instruction: “For this standalone alternate scene only, Byke is 40.” He is meeting a potential employer who has asked his age. Stop after his answer. | Uses 40 in both views; does not alter baseline files or ongoing canon. |
 | 10 — Turn boundary | Byke faces a shut gate. A guard has just ordered him to wait. No weapon drawn, attack, threat, or permission to control the guard. Operator asks him to request entry. | Can ask or attempt persuasion; cannot make the guard agree, open the gate, or attack. |
 
+## Context-card intake checks
+
+Run these separately from RP cases, using SYNTHESIS.md. No comparative runs are recorded.
+
+| ID | Input / mode | Expected behavior |
+| --- | --- | --- |
+| S01 | Preview a prejudiced institution card against friendly characterization | Identify tension without assuming universal friendship; propose a compatible perspective; no active version change |
+| S02 | Same-time shirt described as blue and green, no clarification | Label literal error; no elaborate explanation or pressure-driven major version |
+| S03 | Apply one additive emblem fact | Preserve fact and knowledge boundary; minor version update with card provenance; no unnecessary personality rewrite |
+| S04 | Re-submit an already applied ID with identical content | No duplicated additions or version increment; different content requires a new card/correction |
+| S05 | Doctrine was previously unknown to Byke in an accepted scene | Preserve that ignorance at that time; do not retroactively claim awareness to make behavior coherent |
+| S06 | Apply a campaign-only pressure card | Update selected campaign records; shared baseline and other campaigns unchanged |
+| S07 | Ask for an ordinary post after card 1 | Load active perspective; retain warm voice and factual limits without inventing an exemption, heroic past, or universally friendly unit |
+| S08 | Card conflicts with an explicit accepted motive | Flag conflict; cannot redefine the motive as an inference or erase it; process independent additions only |
+
+Initial document review checked S01/S02/S04 rules and traced card 1 through the runtime manifest and affected modules. This is a static review, not a model trial.
+
 ## Rubric
 
 First apply factual gates: a contradiction of confirmed facts, knowledge leakage, unauthorized outcome/other-player control, or an unsupported consequential addition requires revision regardless of prose quality. A correct clarification in case 05 passes; do not penalize it for withholding a draft.

@@ -2,6 +2,8 @@
 
 These are optional details and hooks to agree with the group. They do not establish shared history or dictate another player's character.
 
+**Version 1.0 qualification:** Read the [Epsilon perspective](../../byke-engine/modules/PERSPECTIVE.md). Artifact research or cooperation with Huntress may conflict with Epsilon's neutralization doctrine. The hooks below never establish official approval, a special exemption, or an existing friendship. Personal cooperation, if adopted in play, should preserve that institutional pressure.
+
 ## Voice and manner
 
 Byke speaks easily, remembers stable hands and mechanics by name, and usually offers help before asking for a favor. His rebellion shows up in crimson hair, irreverent answers, and refusing to let rank excuse cruelty. He enjoys being good at his work and enjoys being seen being good at it almost as much.

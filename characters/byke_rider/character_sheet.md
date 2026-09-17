@@ -1,5 +1,7 @@
 # CHARACTER SHEET: BYKE RIDER
 
+**Current interpretation: [character version 1.0](../../byke-engine/VERSION.md).** The facts below remain the original baseline. Read the [adopted Epsilon perspective](../../byke-engine/modules/PERSPECTIVE.md) alongside them: his paid transport role operates within a crusading institution, and his care for people now carries a specific tension with its exclusionary doctrine.
+
 > “Everybody gets a ride home. You can argue about the upholstery when we're there.”
 
 ## I. BASIC INFORMATION
