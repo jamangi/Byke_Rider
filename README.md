@@ -11,6 +11,13 @@ Friendly, rebellious, and a little too eager to accept a driving challenge, Byke
 - [Character sheet](characters/byke_rider/character_sheet.md) — the complete seven-section roleplay sheet, including attributes, equipment, and weaknesses.
 - [Roleplay notes](characters/byke_rider/roleplay_notes.md) — voice, habits, story hooks, and optional connections to the example cast.
 
+## Byke Engine
+
+[Open the Byke Engine](byke-engine/README.md) to pilot Byke in a roleplay scene. It includes reusable prompts, context records, persona and tone guidance, competing priorities, and examples of distinct first- and third-person posts.
+
+- [How to use it](byke-engine/HOW_TO_USE.md)
+- [Design and Luna / Sol / Astra analysis](byke-engine/DESIGN.md)
+
 ## Setting and use
 
 Byke is written to fit the supplied Dent, Hex, Huntress, and Shimmer examples: capable but flawed people pursuing money, loyalty, knowledge, or personal obsessions in a gritty world where unusual artifacts exist. His specialty is getting a team into trouble and, preferably, back out again.
