@@ -1,0 +1,1 @@
+Byker -He follows Huntress’s gaze down the road and nods.- “Worth a walk. Better chance of finding someone with a van down there than up here.” -He turns his collar against the wind.- “Preferably someone willing to lend it.”
