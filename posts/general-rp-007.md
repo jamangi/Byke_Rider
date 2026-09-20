@@ -1,0 +1,1 @@
+Byker -Squat stone buildings pass slowly on either side, their windows dark. He keeps Ves at a walk over the wet cobbles, peering into the gaps between houses. At a loose shutter’s clatter, he turns sharply, then loosens his grip on the reins.- “Wouldn’t mind somebody asking what we’re doing here.”

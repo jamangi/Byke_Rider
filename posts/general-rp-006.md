@@ -1,0 +1,1 @@
+Byker -His gaze follows the cane, his mouth slightly open. He blinks, then bends to free Ves from the transport harness before swinging into the saddle.- “Right. Van.” -He gathers the reins and briefly surveys the town, then guides Ves toward the narrow road, keeping to a walk on the loose gravel as he starts down toward Skaga.-
