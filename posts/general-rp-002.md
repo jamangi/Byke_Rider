@@ -1,0 +1,1 @@
+Byker -He gives the horse’s harness one last check, then ducks into the helicopter and straps himself in near the door. His gaze stays on Ves a moment longer before he turns to Violet.- “No cookies on me. Starting to think we should’ve negotiated better.”

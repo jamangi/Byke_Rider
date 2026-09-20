@@ -1,0 +1,1 @@
+Byker -He unbuckles and steps out into the salt air, turning back to check on Ves in the harness.- “All right, handsome. Let’s see how you’re doing.” -He looks along the straps for any that have shifted or pulled tight during the flight.-
