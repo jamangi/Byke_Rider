@@ -1,1 +1,1 @@
-Byker -He unbuckles and steps out into the salt air, turning back to check on Ves in the harness.- “All right, handsome. Let’s see how you’re doing.” -He looks along the straps for any that have shifted or pulled tight during the flight.-
+Byker -He checks his carbine before unbuckling and stepping out into the salt air.- “I’ll take a look. Something with room for everybody, if I can find it.” -He turns to check Ves’s harness for shifted straps.- “Give me a minute with him first.”
