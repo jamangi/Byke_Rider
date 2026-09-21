@@ -1,0 +1,1 @@
+Byker -He dismounts and secures Ves at the hitching post, giving the knot a checking tug. Catching sight of Vex beneath the overhang, he points to his own chest, then traces a small arc through the air with his index finger, ending toward Vex. He lifts his eyebrows and waits beside Ves, leaving the distance between them open.-
